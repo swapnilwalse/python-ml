@@ -1,0 +1,835 @@
+NAME,OPTY_CD,SUM_WIN_PROB,REASON_WON_LOST_CD,REVENUE,AGE
+Access,Price Realignment,80,,-345048,599
+Access,Service Technology Change,60,,32144,159
+Access,Upgrade,100,Price,24000,0
+Client Services GSC,Standard Sale,0,Sales Order Cancelled,900,0
+Communications,Standard Sale,99,Experience,0,0
+Connectivity Admin,Standard Sale,0,Competitor Price,100237920,31
+Data Centre,Upgrade,0,Internal Reasons,7200,43
+Hotspots,POC,100,Experience,0,1
+I S Telco,Realignment,40,,-660000,264
+I S Telco,Standard Sale,0,Internal Reasons,700636.496,800
+MPLS Africa,STC Value Down,100,,-12648,4
+MPLS Africa,Upgrade,100,Matched Solution to Need,354395.32,78
+Security,Churn,99,Good Lead,-61885.68,0
+Telco Admin Services,LEGAL DECOM,100,,0,0
+VPN,Standard Sale,99,Installed Base,71464.62,1
+VPN,Upgrade,100,Quote Approved,800,7
+VSAT,Churn,0,,-193339.08,16
+iTaas,LEGAL DECOM,100,,0,0
+iTaas,New Logo,60,,32000,92
+iTaas,Service Technology Change,91,,0,4
+iTaas,Standard Sale,99,Good Lead,231880,0
+Access,Billing Decom,10,,0,365
+Access,New Logo,80,,318264,1063
+Access,Upgrade,100,Quote Approved,364512,1
+Communications,Churn,91,,-52932,0
+Communications,LEGAL DECOM,99,,0,1
+Communications,New Logo,10,,2000,401
+Communications,Standard Sale,40,,3658000,1726
+I S Broadband,Churn,91,,-39938.4,0
+I S Broadband,STC Value Down,100,Relationship,17608,0
+I S Telco,Standard Sale,100,Quote Approved,29269.2,8
+LTE A,Standard Sale,100,,0,8
+MPLS Africa,Standard Sale,100,Installed Base,1598.43,4
+Partner Products,STC Value Up,100,Quote Approved,119669.04,2
+SELECT BU,Standard Sale,10,,5940,1876
+SELECT BU,Upgrade,85,Matched Solution to Need,47658.36,298
+VPN,Churn,0,,-108060,0
+VPN,Churn,91,,-254352.84,0
+VPN,Emergency Install,100,Experience,0,0
+VPN,Standard Sale,40,,338768.44,1937
+VPN,Standard Sale,91,Experience,15913,95
+VPN,Standard Sale,99,,33308,1
+VPN,Suspect Churn,0,Sales Order Cancelled,0,296
+VSAT,Churn,10,,-238788,88
+VSAT,Churn,100,,-49350.84,0
+VSAT,Standard Sale,0,Status Quo No Change Require,16423.46,273
+iTaas,Cession,95,,0,1
+iTaas,New Logo,40,,0,129
+Access,Downgrade,60,,-56949.6,32
+Access,New Logo,40,,605606024,479
+Access,Standard Sale,99,,385334,162
+Access,Upgrade,60,,8148924,236
+Carrier Operations Fibre,Standard Sale,0,Status Quo No Change Require,125000,461
+Communications,Standard Sale,99,,10882,14
+Data Centre,Standard Sale,99,,46700,162
+I S Telco,Standard Sale,0,Bulk Update,0,134
+I S Telco,Standard Sale,100,Price,53480,3
+MPLS Africa,Standard Sale,0,Status Quo No Change Require,146495.05,583
+Partner Products,Standard Sale,100,Installed Base,1000,4
+Security,Downgrade,100,,-3600,4
+Security,Standard Sale,99,Good Lead,424010,0
+Security,Standard Sale,100,Quote Approved,268519.66,147
+Telco Admin Services,STC Value Down,85,Relationship,0,98
+Telco Admin Services,Special Project,100,,0,0
+Telco Admin Services,Standard Sale,100,Good Lead,0,0
+Telco Admin Services,Standard Sale,100,Installed Base,0,0
+Telco Admin Services,Upgrade,99,Installed Base,0,0
+VPN - Overlay,Standard Sale,91,,8588,4
+VSAT,Standard Sale,100,Installed Base,57576,0
+iTaas,Downgrade,100,Good Lead,-131184,10
+Access,Price Realignment,0,,-324000,38
+Access,Standard Sale,0,Quote Cancelled,1993540.6,1362
+Carrier Admin,Billing Decom,80,,-42617.88,90
+Client Services Rapid Response,Standard Sale,100,Installed Base,3300,0
+Data Centre,STC Value Up,80,,208662,84
+I S Broadband,Outdoor Transfer,84,,-19620,0
+I S Telco,STC Value Down,99,Installed Base,-44904,15
+I S Telco,STC Value Down,100,Installed Base,-50760,23
+I S Telco,STC Value Up,10,,554296,86
+I S Telco,STC Value Up,91,Installed Base,62528,33
+I S Telco,STC Value Up,100,,61796,10
+I S Telco,Service Technology Change,60,,62276,159
+I S Telco,Standard Sale,0,Status Quo No Change Require,0,180
+MPLS Africa,STC Value Up,0,Internal Reasons,1400,252
+Mobility,Standard Sale,100,Relationship,1320,0
+Telco Admin Services,Churn,99,,0,0
+Telco Admin Services,Upgrade,100,Installed Base,0,1
+VPN,Churn,100,Installed Base,-138055.2,0
+VPN,STC Value Down,100,Relationship,1400,8
+VPN,Standard Sale,0,Status Quo No Change Require,1500,102
+VSAT,STC Value Up,60,,-242544.4,927
+iTaas,Churn,99,,-815210.04,0
+iTaas,Upgrade,100,,351096.48,14
+Access,Standard Sale,100,Installed Base,118250,9
+Access,Suspect Churn,10,,-369696,545
+Carrier Operations Fibre,Standard Sale,40,,19400,602
+Data Centre,Churn,100,Good Lead,-157071.36,0
+Data Centre,Suspect Churn,10,,-2384256,854
+Hosting,Standard Sale,20,,792000,1193
+Hotspots,Churn,100,,0,0
+I S Broadband,Standard Sale,99,,27765.88,14
+I S Telco,Billing Decom,91,Good Lead,-294252,12
+I S Telco Wireless Services,Churn,91,,-135096,0
+MPLS Africa,New Logo,80,,4176232,1063
+Partner Products,Standard Sale,99,,42000,162
+Security,Standard Sale,0,Competitor Same Solution,205400,19
+Security,Standard Sale,0,Opt Out - Not Core Competency,650,64
+Security,Standard Sale,85,Quote Approved,22900,46
+VPN,Cession,100,,0,0
+VPN,Churn,100,Experience,-139285.2,0
+VPN,Churn,100,Good Lead,-149388,0
+VPN,Price Realignment,20,,-2011141.92,331
+VPN,Suspect Churn,10,,-42703044,1702
+iTaas,Standard Sale,100,Experience,3400,3
+iTaas,Standard Sale,100,Good Lead,35487,0
+Access,Upgrade,91,Installed Base,0,413
+AlwaysOn Broadband,Standard Sale,10,,103968,211
+Application Solutions,Churn,100,,-263700,1461
+Client Services Regions,Standard Sale,100,Experience,500,0
+Communications,Downgrade,60,,38484,19
+Communications,Upgrade,100,Good Lead,19820,73
+Connectivity Admin,Suspect Churn,10,,-1800000,129
+I S Telco,Churn,91,,-294133.32,0
+I S Telco,Emergency Install,100,Experience,0,0
+I S Telco,STC Value Up,60,,632896,1381
+I S Telco,Standard Sale,99,,16888,1
+I S Telco,Standard Sale,99,Experience,156156,203
+I S Telco,Upgrade,85,Experience,123560,354
+MPLS Africa,Upgrade,100,Experience,116450.4,12
+Partner Products,STC Value Up,10,,55104,21
+Partner Products,STC Value Up,100,,0,32
+Security,Standard Sale,0,Competitor Price,86910,408
+Security,Upgrade,60,,1600,232
+Service Management,Standard Sale,60,,495000,215
+Telco Admin Services,Cession,0,Quote Cancelled,5420.52,217
+Telco Admin Services,Special Project,99,,0,0
+VPN,Downgrade,10,,-150046.4,11
+VPN,Downgrade,100,,-76417.68,6
+VPN,Outdoor Transfer,0,,850,0
+VPN,STC Value Down,85,Relationship,-17640,98
+VPN,STC Value Up,100,Matched Solution to Need,61040,0
+VPN,Service Technology Change,100,,12228.8,63
+VPN,Standard Sale,20,,72284.8,379
+VPN,Upgrade,99,,1596.14,5
+VSAT,Standard Sale,0,Sales Order Cancelled,6333,0
+Access,Downgrade,91,Quote Approved,-242172,1
+Access,Standard Sale,91,,134220,13
+Client Services Regions,Standard Sale,80,,157500,48
+Communications,Churn,10,,0,0
+Communications,Churn,100,,-59640,0
+Communications,Standard Sale,0,Status Quo No Change Require,19628,84
+Data Centre,Standard Sale,0,Status Quo No Change Require,1399436,1046
+Data Centre,Standard Sale,99,Matched Solution to Need,6681.18,0
+Hosting,Churn,99,,-105600,0
+I S Telco,STC Value Up,99,,4521,48
+I S Telco,Upgrade,100,Relationship,178308,24
+LTE A,Upgrade,80,,0,45
+MPLS Africa,Renewal,10,,-169284.44,254
+Partner Products,Upgrade,80,,656356.8,62
+Security,Upgrade,84,,5400,15
+Service Management,New Logo,40,,360000,126
+Telco Admin Services,Outdoor Transfer,60,,0,730
+Telco Admin Services,Standard Sale,85,Experience,0,24
+Telco Admin Services,Standard Sale,100,Matched Solution to Need,0,0
+VPN,Outdoor Transfer,99,Experience,2580,0
+VPN,Realignment,100,Experience,-296609.8,3
+VPN,Realignment,100,Relationship,1400,6
+VPN,Standard Sale,85,Quote Approved,172896,60
+VPN,Upgrade,0,,3448,71
+VPN - Overlay,Standard Sale,85,Experience,48800,24
+VSAT,STC Value Down,100,Relationship,-31175.04,0
+iTaas,STC Value Down,100,,0,17
+iTaas,STC Value Down,100,Good Lead,-43666.32,6
+iTaas,Standard Sale,40,,9090020,4190
+Access,STC Value Down,100,Matched Solution to Need,14019,32
+Access,Standard Sale,100,Quote Approved,603482,99
+Access,Upgrade,84,,-9000,2
+Data Centre,Standard Sale,0,Internal Reasons,411580,447
+I S Telco,Churn,0,,-114372.6,0
+I S Telco,Outdoor Transfer,99,Installed Base,800,13
+I S Telco,Outdoor Transfer,100,Installed Base,7930,2
+I S Telco,STC Value Up,99,Experience,20052.92,5
+I S Telco,STC Value Up,100,Matched Solution to Need,47804,0
+I S Telco,Service Technology Change,100,Experience,0,10
+I S Telco Wireless Services,STC Value Down,60,,-238536,1
+LTE A,Standard Sale,80,,0,106
+MPLS Africa,Outdoor Transfer,100,,400,3
+MPLS Africa,Standard Sale,0,Sales Order Cancelled,18480,132
+Security,Standard Sale,10,,5379982,3780
+Security,Standard Sale,100,,36910,119
+Telco Admin Services,Churn,10,,149400,79
+Telco Admin Services,Churn,100,,0,11
+VPN,STC Value Up,85,Good Lead,21366.4,35
+VPN,Upgrade,40,,58406,196
+VSAT,Standard Sale,91,,6003,0
+Client Services Cloud,Standard Sale,0,,324000,180
+Communications,Standard Sale,0,Quote Cancelled,352557,169
+Communications,Standard Sale,20,,2051000,4060
+Communications,Standard Sale,99,Quote Approved,46280,150
+Communications,Upgrade,0,Quote Cancelled,121980,24
+Data Centre,Upgrade,85,Experience,459864,13
+I S Broadband,Price Realignment,60,,-265332,421
+I S Broadband,Standard Sale,10,,120000,532
+I S Broadband,Standard Sale,100,,11873.8,0
+MPLS Africa,STC Value Up,99,Matched Solution to Need,125224,24
+Partner Products,BID,60,,968400,496
+SELECT BU,Standard Sale,60,,131240,1145
+SELECT BU,Standard Sale,80,,114600,1000
+Security,New Logo,80,,195840,2126
+Security,Standard Sale,40,,654384,2818
+Security,Upgrade,100,Quote Approved,11760,3
+Service Management,Standard Sale,10,,72000,119
+VPN,Price Realignment,10,,-119999.9658,248
+VPN,Upgrade,100,Experience,56018.64,208
+VPN - Overlay,Standard Sale,100,Quote Approved,233600,56
+VSAT,Standard Sale,99,,40100,0
+VSAT,Standard Sale,100,Relationship,3829.5,0
+iTaas,Churn,99,Good Lead,0,0
+iTaas,Upgrade,100,Good Lead,99650.44,6
+Access,Price Realignment,10,,-1062996,174
+Access,STC Value Down,99,Installed Base,0,5
+Access,Upgrade,100,Experience,161928,104
+Cloud Admin,Standard Sale,80,,28400,547
+Communications,Churn,99,,0,0
+Data Centre,Churn,99,,-97140,0
+Data Centre,Outdoor Transfer,100,,13000,0
+Hosting,Standard Sale,10,,60000,553
+Hosting,Standard Sale,100,,1018,4
+I S Telco,BID,10,,107000,160
+I S Telco,STC Value Up,85,Good Lead,62852,35
+I S Telco,Standard Sale,85,Quote Approved,47800,60
+I S Telco,Standard Sale,100,Installed Base,22362.9,0
+I S Telco,Upgrade,99,Relationship,3768,8
+I S Telco 3rd Party Services,Standard Sale,100,Experience,38768,1
+I S Telco Wireless Services,Churn,99,Experience,-111720,0
+LTE A,Standard Sale,85,Quote Approved,0,1
+Over the Top,Complex Sale,0,Competitor Different Solution,840000,755
+Partner Products,BID,10,,150600,119
+Partner Products,Standard Sale,10,,3272892,3341
+Partner Products,Standard Sale,100,,2599230,125
+Partner Products,Standard Sale,100,Experience,802832,88
+SELECT BU,Downgrade,0,,-326,0
+SELECT BU,Standard Sale,91,,0,0
+Security,Churn,99,,-345805.56,0
+Security,STC Value Down,99,Good Lead,-10245.8,168
+Telco Admin Services,Upgrade,99,Relationship,0,8
+VPN,Outdoor Transfer,60,,2800,730
+VPN,Price Realignment,60,,-387108,833
+VPN,Standard Sale,0,Opt Out - Exceeded Clients Bud,140799.68,239
+VPN,Standard Sale,84,,10300,18
+VPN,Upgrade,100,Relationship,54911.2,51
+iTaas,Realignment,99,Good Lead,0,0
+iTaas,Service Technology Change,100,,-13584,6
+iTaas,Standard Sale,99,,5724,0
+Access,Realignment,20,,-335482,87
+Carrier Admin,Standard Sale,60,,92692,92
+Carrier Operations Fibre,Upgrade,0,,103800,734
+Communications,STC Value Up,100,Installed Base,2000,16
+Communications,Upgrade,60,,49660,203
+Communications,Upgrade,80,,54208,105
+Hosting,Standard Sale,40,,1728000,319
+Hotspots,LEGAL DECOM,100,,0,0
+I S Broadband,Standard Sale,100,Installed Base,0,0
+I S Telco,Billing Decom,99,Experience,-11762.36,0
+I S Telco,Standard Sale,0,Competitor Different Solution,20600,44
+I S Telco,Standard Sale,91,,447480,13
+I S Telco 3rd Party Services,Churn,100,,-163128,0
+MPLS Africa,Churn,10,,-195276.36,0
+MPLS Africa,Churn,100,,-454716.48,0
+MPLS Africa,Standard Sale,0,,2952011.72,4095
+Mobility,Standard Sale,99,Experience,0,0
+Security,POC,100,,1810,7
+Service Management,Upgrade,100,Installed Base,85425.6,1
+VPN,Outdoor Transfer,100,,24937.5,52
+VPN,STC Value Down,99,Bulk Update,0,0
+VPN,STC Value Down,100,Matched Solution to Need,131144.04,264
+VPN,Standard Sale,0,Competitor Different Solution,0,44
+VPN,Suspect Churn,20,,-14400000,499
+VPN,Upgrade,100,Good Lead,5080,0
+VSAT,Realignment,100,Matched Solution to Need,13078.2,377
+VSAT,STC Value Up,85,Good Lead,-32182.92,35
+iTaas,STC Value Down,99,Good Lead,-106956.52,168
+iTaas,Standard Sale,100,Quote Approved,2200411.54,994
+iTaas,Upgrade,100,Experience,76501,1
+Access,Standard Sale,10,,4617952,11384
+Access,Standard Sale,100,,176080,155
+Access,Upgrade,99,,22781.28,5
+Client Services Regions,Standard Sale,60,,5000,436
+Client Services Regions,Standard Sale,100,Good Lead,1000,0
+Communications,STC Value Up,10,,0,218
+Data Centre,Suspect Churn,0,,-499680,116
+I S Broadband,Upgrade,100,,32994,27
+I S Telco,Outdoor Transfer,100,Experience,8000,1
+I S Telco,Price Realignment,80,,-72146.16,296
+I S Telco,Standard Sale,0,Competitor Price,726080,711
+MPLS Africa,Churn,100,Installed Base,-4980,0
+MPLS Africa,Standard Sale,0,Competitor Price,378548,210
+Partner Products,Standard Sale,0,Opt Out - Exceeded Clients Bud,455011.2,146
+Partner Products,Upgrade,100,,273780,34
+Security,Churn,91,,-102389.28,0
+Security,Standard Sale,100,Experience,110660,603
+Telco Admin Services,POC,100,Experience,0,1
+Telco Admin Services,STC Value Up,99,,0,0
+Telco Admin Services,Standard Sale,10,,0,410
+Telco Admin Services,Upgrade,100,Relationship,0,16
+VPN,Price Realignment,0,Internal Reasons,-900000,138
+VPN,Suspect Churn,0,,-8400000,560
+VPN - Overlay,Standard Sale,0,Status Quo No Change Require,29200,23
+VPN - Overlay,Standard Sale,100,Experience,58400,4
+VSAT,STC Value Up,100,Installed Base,-53360.4,35
+iTaas,Cession,95,Good Lead,0,5
+iTaas,LEGAL DECOM,99,,-1184.04,0
+Access,Standard Sale,99,Good Lead,37996,0
+Communications,Standard Sale,0,Opt Out - Exceeded Clients Bud,26048,211
+Communications,Upgrade,85,Quote Approved,10640,2
+Data Centre,Standard Sale,0,Quote Cancelled,1292440,828
+Data Centre,Standard Sale,20,,3577700,2147
+Data Centre,Standard Sale,84,,10162.2,103
+I S Broadband,Standard Sale,100,Experience,22361.8,32
+I S Telco,Standard Sale,85,Matched Solution to Need,73540,97
+MPLS Africa,Cession,10,,-1308672,991
+MPLS Africa,Standard Sale,60,,12161313.76,11656
+Mobility,New Logo,80,,3900,1063
+Mobility,Standard Sale,99,Installed Base,3720,0
+Partner Products,STC Value Down,100,Good Lead,-990,47
+Telco Admin Services,STC Value Down,100,Relationship,0,8
+VPN,Churn,99,,-1687074.36,0
+VPN,Standard Sale,85,Matched Solution to Need,750,99
+VPN,Upgrade,91,Installed Base,82784,413
+VSAT,Standard Sale,100,Experience,6839.06,0
+iTaas,STC Value Down,99,,-32309.6,32
+Access,Churn,10,,-189168,0
+Access,Churn,100,,-2591933.16,0
+Access,Realignment,100,Experience,-1199060,9
+Access,Realignment,100,Good Lead,-194786,331
+Access,Standard Sale,0,Status Quo No Change Require,6352242,616
+Access,Standard Sale,100,Experience,478079.36,42
+Carrier Admin,Service Technology Change,60,,0,32
+Carrier Operations Fibre,Standard Sale,80,,1023624,188
+Communications,Standard Sale,100,Relationship,5470,10
+Communications,Upgrade,91,Quote Approved,40,2
+Data Centre,Standard Sale,100,Relationship,3053.76,14
+I S Broadband,Downgrade,100,Experience,-47262,0
+I S Broadband,Standard Sale,20,,20000000,1183
+I S Telco,Churn,99,,-271349.76,0
+I S Telco,Outdoor Transfer,100,,6325,34
+I S Telco,Price Realignment,100,,-181832.56,22
+I S Telco Wireless Services,Realignment,100,Relationship,-123276,6
+LTE A,Standard Sale,100,Matched Solution to Need,0,34
+MPLS Africa,Standard Sale,20,,2784903.84,2455
+MPLS Africa,Upgrade,60,,706384,604
+Mobility,Standard Sale,99,Quote Approved,19900,0
+Partner Products,STC Value Down,99,,0,2
+Partner Products,Standard Sale,20,,709199.48,1109
+Partner Products,Upgrade,60,,61819.56,58
+Partner Products,Upgrade,100,Experience,905409,33
+Partner Products,Upgrade,100,Good Lead,0,40
+Security,Standard Sale,91,,34600,205
+Service Management,Standard Sale,0,Status Quo No Change Require,720000,103
+Telco Admin Services,STC Value Up,99,Experience,0,5
+VPN,Standard Sale,100,Relationship,124700,13
+VPN,Upgrade,99,Relationship,96012.8,16
+VPN - Overlay,Standard Sale,10,,236400,243
+iTaas,Standard Sale,100,Installed Base,943165.4,95
+iTaas,Suspect Churn,10,,-1392000,384
+Access,Churn,99,Good Lead,-68029.56,0
+Access,Price Realignment,60,,-920712,833
+Communications,Standard Sale,100,Matched Solution to Need,6134,24
+Hotspots,LEGAL DECOM,91,,0,0
+Hotspots,POC,100,,0,1
+I S Broadband,STC Value Down,85,Relationship,-7396.8,98
+I S Broadband,Standard Sale,80,,59928,559
+I S Telco,Realignment,100,Experience,-143400.16,3
+I S Telco,STC Value Down,100,Experience,-81572.04,31
+I S Telco,Upgrade,84,,48548,814
+I S Telco 3rd Party Services,Standard Sale,80,,20700,48
+LTE A,Standard Sale,100,Experience,0,15
+MPLS Africa,New Logo,20,,4399861.83,824
+MPLS Africa,Standard Sale,80,,266612,438
+MPLS Africa,Standard Sale,100,Experience,150883.52,10
+Mobility,POC,100,Matched Solution to Need,0,37
+Partner Products,Standard Sale,40,,856402,1229
+Security,Outdoor Transfer,100,,155760,0
+Telco Admin Services,STC Value Up,60,,0,102
+VPN,Churn,99,Good Lead,-269303.88,0
+VPN,Price Realignment,80,,-1633059.6,599
+VPN,STC Value Up,99,,7836,72
+Carrier Admin,Standard Sale,10,,858693.4,461
+Carrier Operations Fibre,Standard Sale,20,,58376,504
+Cloud Admin,Standard Sale,10,,-1080000,275
+Communications,Upgrade,100,Experience,13870,14
+Data Centre,Churn,99,Good Lead,-3840,0
+Data Centre,Upgrade,91,Good Lead,14400,35
+I S Broadband,Standard Sale,40,,114312,1414
+I S Telco,Churn,10,,-7724376,107
+I S Telco,Churn,100,,-3823280.28,0
+I S Telco,Realignment,100,Good Lead,17432,1
+I S Telco,STC Value Down,60,,-1071603.12,4
+I S Telco,STC Value Up,91,Matched Solution to Need,64840,408
+I S Telco,Upgrade,0,Quote Cancelled,5952,251
+I S Telco Wireless Services,STC Value Down,100,Matched Solution to Need,-468000,88
+Mobility,Standard Sale,0,Internal Reasons,100,0
+Partner Products,Standard Sale,80,,2606315.56,2112
+SELECT BU,Standard Sale,0,Sales Order Cancelled,4496,132
+Security,Standard Sale,0,Quote Cancelled,9681177,1698
+Telco Admin Services,Billing Decom,100,,-75324,0
+Telco Admin Services,Churn,91,,-9840,0
+Telco Admin Services,Outdoor Transfer,99,Experience,0,0
+VPN,Churn,99,Experience,-50748,0
+VPN,STC Value Down,84,,-0.1,14
+VPN,Standard Sale,100,Matched Solution to Need,194651.76,286
+VPN,Upgrade,99,Matched Solution to Need,76819.16,26
+VPN,Upgrade,100,Installed Base,313281.04,25
+VSAT,STC Value Up,99,Installed Base,-32182.92,35
+VSAT,Standard Sale,0,,0,13
+Access,Churn,91,,-96225.6,0
+Access,Standard Sale,0,Internal Reasons,262948,985
+Access,Standard Sale,100,Matched Solution to Need,43202,0
+Access,Upgrade,99,Experience,178230,1
+Communications,Standard Sale,84,,30,19
+Communications,Standard Sale,100,Price,0,0
+Data Centre,Upgrade,0,,105840,32
+LTE A,Standard Sale,99,Installed Base,0,0
+MPLS Africa,Standard Sale,40,,221492,1536
+Mobility,LEGAL DECOM,99,,0,1
+Partner Products,Churn,10,,-114816,0
+Partner Products,Churn,100,,-276850.08,0
+Partner Products,Churn,100,Good Lead,-88404.96,0
+Partner Products,Standard Sale,0,,3856681.08,4750
+Partner Products,Standard Sale,60,,45269627.51,12514
+Telco Admin Services,Outdoor Transfer,100,,0,1
+Telco Admin Services,STC Value Down,100,Experience,0,3
+VPN,Standard Sale,100,Quote Approved,7846.8,5
+Access,Price Realignment,100,Matched Solution to Need,-346668,58
+Access,STC Value Up,100,Experience,73080,7
+Communications,New Logo,80,,1157156,2126
+Communications,Standard Sale,100,Quote Approved,756600,196
+Communications,Upgrade,100,Quote Approved,21187,46
+Data Centre,New Logo,60,,296600,804
+Data Centre,Standard Sale,100,Quote Approved,3415562.36,407
+Data Centre,Upgrade,10,,3240,587
+Hotspots,LEGAL DECOM,0,,0,0
+I S Broadband,Standard Sale,85,Experience,18600,24
+I S Broadband,Standard Sale,100,Matched Solution to Need,0,92
+I S Telco,LEGAL DECOM,100,,0,0
+I S Telco,New Logo,10,,566660,126
+I S Telco,New Logo,100,,30968,41
+I S Telco Wireless Services,Standard Sale,100,,11500,41
+MPLS Africa,Standard Sale,91,,135275.17,8
+Partner Products,Price Realignment,84,,-99197.2,7
+SELECT BU,Realignment,10,,13668.6,67
+Telco Admin Services,Outdoor Transfer,0,,0,0
+Telco Admin Services,POC,100,,0,1
+Telco Admin Services,Service Technology Change,100,,0,21
+VPN,Price Realignment,100,Matched Solution to Need,-67456.8,58
+VPN,Realignment,99,,-12920,7
+VPN,STC Value Up,99,Installed Base,43170.4,136
+VPN,STC Value Up,100,Relationship,-15000,36
+VPN,Standard Sale,80,,8509253.38,3271
+VPN,Standard Sale,100,Experience,1072697.18,402
+VPN,Standard Sale,100,Price,25595,3
+VPN,Upgrade,60,,31292,242
+VPN,Upgrade,99,Experience,1940621,40
+iTaas,Service Migration,100,,-1692.12,0
+iTaas,Standard Sale,100,Matched Solution to Need,1120,7
+Access,BID,60,,1020000,239
+Access,New Logo,100,,33158,41
+Access,Standard Sale,80,,5782470.92,6608
+Access,Upgrade,85,Experience,-12706,354
+Carrier Operations Fibre,Standard Sale,60,,42000,672
+Carrier Operations Fibre,Standard Sale,85,Experience,1500,0
+Communications,Standard Sale,100,Experience,147683.32,145
+I S Broadband,Billing Decom,100,,-84000,0
+I S Broadband,Upgrade,80,,0,54
+I S Broadband,Upgrade,100,Installed Base,1531.2,14
+I S Telco,Standard Sale,99,Relationship,366256,0
+I S Telco,Upgrade,100,Installed Base,100531,21
+MPLS Africa,Downgrade,100,Experience,-11619.36,0
+MPLS Africa,Upgrade,85,Installed Base,7522.72,4
+Partner Products,New Logo,80,,27760,1063
+Security,Churn,10,,-102720,0
+Security,Churn,100,,-2479522.56,0
+Security,Standard Sale,0,Competitor Different Solution,27025619,1239
+Security,Standard Sale,0,Internal Reasons,343950,1161
+Telco Admin Services,Churn,99,Experience,0,0
+VPN,Realignment,99,Matched Solution to Need,-809144.4,36
+VPN,STC Value Down,100,Installed Base,3062,18
+VPN,Standard Sale,0,Internal Reasons,2013668.8,3524
+VSAT,Standard Sale,99,Experience,90477.6,0
+VSAT,Standard Sale,100,Matched Solution to Need,689974.66,469
+iTaas,Standard Sale,0,Status Quo No Change Require,10803971.2,964
+Access,Standard Sale,0,Opt Out - Exceeded Clients Bud,19572,211
+Access,Upgrade,40,,145860,138
+Communications,Cession,80,,0,435
+Communications,Cession,95,Relationship,0,0
+Communications,LEGAL DECOM,100,,0,0
+Communications,Standard Sale,60,,18811077,10011
+I S Broadband,LEGAL DECOM,100,,-9588,0
+I S Telco,Standard Sale,40,,1112496,4173
+I S Telco,Standard Sale,91,Experience,240539,90
+I S Telco,Upgrade,100,Good Lead,0,6
+MPLS Africa,Churn,99,,16803.6,0
+Mobility,Standard Sale,100,Experience,51589,2
+Partner Products,Price Realignment,100,,6071.04,13
+Partner Products,STC Conversion,85,Technology / Solution Provided,-3468,0
+Partner Products,Standard Sale,84,,750,102
+SELECT BU,Churn,0,Quote Cancelled,-3084,31
+Security,Cession,95,,0,1
+Security,New Logo,40,,414200,387
+Security,Upgrade,0,,1298160,391
+Telco Admin Services,Churn,0,,0,0
+Telco Admin Services,STC Value Up,91,Installed Base,0,33
+VPN,Billing Decom,80,,-12600,45
+VPN,Standard Sale,85,Experience,113568,150
+VPN,Standard Sale,100,Good Lead,369058.15,381
+VPN - Overlay,Standard Sale,0,,1376000,261
+iTaas,Downgrade,80,,-131184,9
+Access,STC Value Up,100,Relationship,17022,36
+Access,Standard Sale,0,Competitor Price,8590880,863
+Communications,Churn,91,Good Lead,0,0
+Communications,Downgrade,100,Quote Approved,3141,13
+Communications,Realignment,99,Experience,0,5
+Communications,Upgrade,100,,0,42
+Data Centre,Standard Sale,0,,2969601.24,38195
+I S Telco,STC Value Down,100,Relationship,-39648,8
+I S Telco,STC Value Up,85,Installed Base,62528,33
+I S Telco Wireless Services,Standard Sale,60,,224686.68,290
+MPLS Africa,Outdoor Transfer,100,Experience,5175,20
+Mobility,Standard Sale,100,Installed Base,12270,0
+SELECT BU,Churn,100,,0,0
+SELECT BU,Upgrade,99,Experience,0,3
+Security,Standard Sale,0,,11898346.24,408556
+Security,Standard Sale,20,,148798.72,1084
+Security,Standard Sale,100,Matched Solution to Need,73920,17
+Security,Upgrade,100,Installed Base,720,0
+VPN,Standard Sale,99,Experience,1017167.6,439
+iTaas,Churn,100,Installed Base,0,0
+iTaas,POC,100,Matched Solution to Need,0,6
+Access,BID,0,,80822,306
+Access,POC,80,,218750,113
+Access,Realignment,10,,-46610.4,67
+Access,STC Value Up,100,Installed Base,0,29
+Access,Upgrade,80,,8711004,131
+Communications,Standard Sale,85,Experience,34329,48
+Communications,Suspect Churn,0,,-405120,109
+Connectivity Admin,Standard Sale,40,,0,113
+Data Centre,Outdoor Transfer,84,,0,24
+Data Centre,Special Project,100,,0,0
+Data Centre,Standard Sale,99,Experience,4702.32,182
+I S Telco,Churn,100,Installed Base,-215631,0
+I S Telco,STC Value Up,99,Matched Solution to Need,333804,222
+I S Telco,STC Value Up,100,Installed Base,62528,64
+I S Telco,Service Technology Change,0,Sales Order Cancelled,1400,0
+I S Telco,Upgrade,0,,102480,0
+I S Telco 3rd Party Services,Standard Sale,60,,757144.73,92
+LTE A,Standard Sale,60,,0,22
+Partner Products,STC Value Up,84,,3870.72,92
+Partner Products,Standard Sale,0,Quote Cancelled,25915522.56,2480
+SELECT BU,Standard Sale,0,Status Quo No Change Require,10750,276
+VPN,Churn,10,,-514295.88,44
+VPN,Churn,100,,-3964983.36,0
+VPN,STC Value Down,99,Installed Base,0,10
+VPN,STC Value Up,91,Installed Base,2872,33
+VPN,STC Value Up,100,,55062,20
+VPN,Standard Sale,0,,17016273.01,14089
+VPN - Overlay,Standard Sale,99,,24400,14
+iTaas,Standard Sale,0,Competitor Price,3092160,192
+iTaas,Upgrade,40,,1539000,1507
+Access,Churn,100,Installed Base,-960000,0
+Access,New Logo,19,,19046,697
+Access,New Logo,60,,434910,542
+Access,STC Value Down,100,,-9780,7
+Access,Upgrade,20,,11184,112
+Communications,Standard Sale,100,Good Lead,106040,2
+Data Centre,Churn,100,,-491645.28,0
+Data Centre,New Logo,19,,25000,697
+Data Centre,Standard Sale,60,,53995808.82,28882
+Data Centre,Standard Sale,100,Experience,312205,101
+I S Broadband,Churn,99,,-500174.52,0
+I S Telco,Standard Sale,20,,1608784,397
+I S Telco,Standard Sale,84,,5000,0
+I S Telco,Upgrade,100,Experience,-22728,142
+LTE A,Standard Sale,100,Quote Approved,0,0
+MPLS Africa,Cession,95,Quote Approved,0,0
+Mobility,Standard Sale,80,,61716,96
+Mobility,Standard Sale,100,Good Lead,34000,0
+Partner Products,Churn,99,,-9779.64,0
+SELECT BU,Standard Sale,0,,15160,119
+VPN,Realignment,100,Good Lead,0,1
+iTaas,Churn,100,Good Lead,-77520,0
+iTaas,Standard Sale,10,,4228094.12,6692
+iTaas,Standard Sale,100,,17505,1
+Access,Churn,99,,-278896.08,0
+Access,Price Realignment,20,,-703663.2,284
+Access,Upgrade,100,Matched Solution to Need,160740,6
+Communications,Standard Sale,0,,2381578.35,45777
+Data Centre,Downgrade,60,,-2400,12
+Data Centre,New Logo,40,,609640,450
+Data Centre,STC Value Up,10,,135482,232
+Data Centre,STC Value Up,100,Matched Solution to Need,228984,4
+Mobility,Standard Sale,0,,600000,991
+Mobility,Standard Sale,100,Price,20000,0
+Partner Products,STC Value Down,99,Good Lead,-19852.44,0
+Partner Products,STC Value Down,100,,0,105
+Partner Products,Service Technology Change,100,Experience,0,34
+Security,Standard Sale,0,Status Quo No Change Require,413480,237
+Security,Standard Sale,80,,4964682.31,12829
+Telco Admin Services,Outdoor Transfer,100,Installed Base,0,1
+Telco Admin Services,STC Value Up,100,Matched Solution to Need,0,0
+VPN,STC Value Down,60,,-794307.12,2
+VPN,Special Project,99,,23400,0
+VPN,Standard Sale,85,Installed Base,2894,4
+VPN,Standard Sale,99,Relationship,183297.6,0
+VPN,Upgrade,0,Quote Cancelled,25130.88,251
+VPN - Overlay,Standard Sale,80,,361081.52,850
+iTaas,Standard Sale,0,Quote Cancelled,2454462.4,2789
+Access,New Logo,0,Quote Cancelled,72000,692
+Communications,Billing Decom,10,,0,0
+Communications,Standard Sale,0,Competitor Price,82782,194
+Communications,Standard Sale,0,Misaligned Solution Proposed,26070,8
+Communications,Upgrade,99,Experience,790,6
+Data Centre,Standard Sale,80,,28718941.36,15436
+Data Centre,Upgrade,60,,996984,1160
+Hosting,Churn,100,,-17820,0
+Hosting,Churn,100,Good Lead,-26093.76,0
+Hosting,Standard Sale,60,,9600,131
+Hosting,Suspect Churn,10,,-6840000,408
+I S Broadband,STC Value Up,10,,21156,177
+I S Broadband,STC Value Up,91,Matched Solution to Need,-23953.68,408
+I S Telco,Upgrade,10,,4452,216
+I S Telco,Upgrade,91,Installed Base,344332,413
+I S Telco,Upgrade,100,,18510,236
+I S Telco Wireless Services,Churn,10,,0,0
+I S Telco Wireless Services,Churn,100,,-481680,0
+I S Telco Wireless Services,Churn,100,Good Lead,-72312,0
+MPLS Africa,Churn,91,,-35338.56,0
+MPLS Africa,Standard Sale,100,Matched Solution to Need,2263,6
+Mobility,Churn,100,,-40500,0
+Mobility,Churn,100,Good Lead,-237744,0
+Mobility,Standard Sale,60,,36000,56
+SELECT BU,Outdoor Transfer,0,,0,0
+Security,STC Value Down,100,,-16047.6,174
+VPN,Churn,80,,-1837275,56
+VPN,Standard Sale,91,,269102.73,14
+VPN,Standard Sale,91,Good Lead,5080,10
+VSAT,Standard Sale,60,,11351.16,188
+iTaas,Upgrade,80,,2178,925
+Access,Upgrade,100,Installed Base,53352,0
+Communications,Price Realignment,100,,45960,18
+Communications,Standard Sale,91,Quote Approved,70,7
+Communications,Standard Sale,99,Relationship,5010,0
+Communications,Upgrade,91,,6832,39
+Data Centre,Price Realignment,100,Good Lead,-441394.8,5
+Data Centre,Standard Sale,91,Quote Approved,2403660,160
+I S Broadband,Churn,10,,-29988,0
+I S Broadband,Churn,100,,-725204.4,0
+I S Broadband,LEGAL DECOM,99,,0,1
+I S Telco,Standard Sale,80,,856271.72,1692
+I S Telco,Standard Sale,100,Experience,1132113.6,215
+I S Telco,Upgrade,99,Experience,134540,10
+I S Telco,Upgrade,100,Matched Solution to Need,8640,101
+I S Telco 3rd Party Services,Standard Sale,100,,32768,10
+MPLS Africa,Realignment,100,,-47875.87,2122
+MPLS Africa,Standard Sale,10,,7777206,5477
+Mobility,Upgrade,100,Price,455270.4,156
+Partner Products,Churn,0,,0,0
+Partner Products,STC Value Down,85,Experience,0,106
+SELECT BU,STC Value Down,100,Relationship,0,8
+Telco Admin Services,STC Value Up,85,Installed Base,0,33
+VPN,Price Realignment,40,,-1603766.28,630
+VPN,Standard Sale,0,Competitor Price,3591783.2,1863
+VPN,Standard Sale,0,Quote Cancelled,15551194.72,852
+VSAT,Outdoor Transfer,100,Installed Base,9993.5,14
+VSAT,Standard Sale,100,Good Lead,9993.5,0
+iTaas,Billing Decom,100,Installed Base,-23640,0
+iTaas,Standard Sale,0,Opt Out - Exceeded Clients Bud,100408,120
+iTaas,Standard Sale,20,,853260,3342
+iTaas,Upgrade,60,,95820,1478
+Connectivity Admin,Standard Sale,60,,132392,159
+Data Centre,Renewal,85,Matched Solution to Need,-70956,36
+Data Centre,STC Value Down,100,,-31268,16
+I S Broadband,Standard Sale,0,Internal Reasons,0,84
+I S Telco,Outdoor Transfer,60,,6400,194
+I S Telco,Price Realignment,60,,-606432,163
+I S Telco,Standard Sale,0,Quote Cancelled,4264754.68,548
+I S Telco,Standard Sale,100,Matched Solution to Need,262477.43,55
+I S Telco,Upgrade,99,Matched Solution to Need,170784,26
+Mobility,Standard Sale,10,,240000,2986
+Mobility,Standard Sale,100,,16280,2
+Security,STC Value Down,60,,-18440,730
+Security,Upgrade,0,Quote Cancelled,72000,112
+Service Management,New Logo,0,Quote Cancelled,360000,76
+Telco Admin Services,Standard Sale,60,,0,352
+VPN,Billing Decom,100,,-190675.2,0
+VPN,STC Value Up,60,,182022.4,1381
+VPN,STC Value Up,85,Installed Base,9760,33
+VPN,Standard Sale,0,Misaligned Solution Proposed,147200,305
+VPN,Standard Sale,100,Installed Base,618045.1,41
+VPN,Upgrade,99,Installed Base,96920,0
+VPN,Upgrade,100,Matched Solution to Need,478493.72,155
+VPN - Overlay,Standard Sale,60,,547200,1180
+iTaas,Churn,10,,0,0
+iTaas,Churn,100,,-649491.48,0
+iTaas,Standard Sale,80,,10097223.05,17726
+Access,Churn,0,,-1334352,42
+Access,Price Realignment,0,Internal Reasons,-1268556,22
+Data Centre,Upgrade,100,Quote Approved,571800,9
+I S Telco,Realignment,99,,0,7
+I S Telco,STC Value Down,99,Bulk Update,1,0
+I S Telco,STC Value Down,100,Matched Solution to Need,145593.88,104
+I S Telco,STC Value Up,99,Installed Base,179108,136
+I S Telco Wireless Services,Churn,80,,-210096,42
+Partner Products,Standard Sale,100,Quote Approved,1878372.04,79
+Security,Standard Sale,99,,-21084,0
+Telco Admin Services,Standard Sale,84,,0,18
+VPN,BID,10,,182300,160
+VPN,New Logo,20,,2149909.1,824
+VPN,STC Value Up,91,Matched Solution to Need,279744.4,816
+VPN,Service Technology Change,100,Experience,0,10
+VPN,Standard Sale,60,,40313683.21,31651
+VPN,Upgrade,84,,18000,816
+VSAT,Standard Sale,10,,2273649.74,1666
+VSAT,Standard Sale,40,,332500,1293
+VSAT,Standard Sale,100,,83070.8,80
+iTaas,Standard Sale,0,Internal Reasons,2415413.2,3640
+iTaas,Standard Sale,84,,59120,204
+iTaas,Upgrade,91,Good Lead,22168,0
+iTaas,Upgrade,100,Matched Solution to Need,560976,8
+Access,Standard Sale,85,Experience,21542,162
+Access,Standard Sale,85,Matched Solution to Need,106000,0
+Communications,Downgrade,80,,10950,12
+Communications,Standard Sale,10,,15502400,3204
+Communications,Standard Sale,91,Installed Base,50,0
+Communications,Standard Sale,100,,148828.6,82
+Data Centre,Standard Sale,10,,6950355,5625
+Data Centre,Standard Sale,40,,227410,200
+Data Centre,Standard Sale,100,,40893.14,152
+I S Broadband,Churn,99,Good Lead,-6240,0
+I S Telco,Standard Sale,60,,11808299.72,20208
+I S Telco,Standard Sale,85,Experience,609912,162
+Mobility,Standard Sale,0,Opt Out - Exceeded Clients Bud,600000,352
+Mobility,Standard Sale,0,Opt Out - Not Core Competency,1440000,398
+Over the Top,Upgrade,10,,1872,20
+Partner Products,STC Value Up,100,Good Lead,56104,1
+SELECT BU,STC Value Up,100,Matched Solution to Need,6740,0
+Service Management,Standard Sale,40,,360000,248
+Telco Admin Services,Standard Sale,100,Experience,0,33
+VPN,Downgrade,80,,-37264,70
+VPN,Outdoor Transfer,99,Installed Base,0,13
+VPN,STC Value Up,99,Experience,25295.92,5
+VPN,STC Value Up,99,Matched Solution to Need,-9686.4,252
+VPN,Service Technology Change,60,,138880,32
+VSAT,STC Value Down,100,Experience,-6654.4,6
+iTaas,Churn,91,,-171648,0
+iTaas,Standard Sale,0,,28768190.43,1045163
+iTaas,Upgrade,100,Quote Approved,120960,12
+Access,Churn,100,Good Lead,-73668,0
+Access,Standard Sale,40,,7302615.4,2038
+Access,Standard Sale,60,,65538526.54,28015
+Access,Upgrade,0,,82584,123
+Carrier Admin,STC Value Up,60,,1513500,588
+Client Services Cloud,Standard Sale,40,,61500,202
+Communications,Downgrade,100,,0,1
+Communications,Standard Sale,80,,4544703.32,25136
+Communications,Standard Sale,100,Installed Base,10236,33
+Hosting,New Logo,80,,326850,1063
+Hotspots,Standard Sale,80,,36000,15
+I S Telco,Standard Sale,0,,10534481,8760
+I S Telco Wireless Services,Standard Sale,99,Matched Solution to Need,61561,50
+Mobility,Standard Sale,85,Good Lead,455270.4,2
+Mobility,Standard Sale,100,Matched Solution to Need,6920,0
+Partner Products,New Logo,40,,5943245.98,1117
+Partner Products,Standard Sale,0,Internal Reasons,0,11
+Security,STC Value Down,100,Experience,-650.96,12
+VPN,STC Value Down,100,Experience,-244881.72,56
+VPN,Upgrade,10,,473528,847
+VPN,Upgrade,100,,2297117.2,242
+Access,Upgrade,10,,116614,35
+Access,Upgrade,100,,249876,4
+Client Services Cloud,Standard Sale,10,,-753276,73
+Client Services Regions,Standard Sale,100,Installed Base,500,0
+Communications,Standard Sale,0,Competitor Different Solution,40890,38
+Communications,Standard Sale,0,Internal Reasons,3960000,2627
+Hotspots,Standard Sale,0,,36000,110
+I S Broadband,Churn,100,Good Lead,-67645.8,0
+I S Broadband,Standard Sale,0,,1179000,661
+I S Telco,Service Technology Change,100,,57992,21
+I S Telco,Standard Sale,0,Opt Out - Exceeded Clients Bud,392876.91,239
+I S Telco,Standard Sale,10,,12010938.6,7926
+I S Telco,Standard Sale,100,,15660663.04,297
+I S Telco,Upgrade,40,,-14822,102
+I S Telco,Upgrade,85,Installed Base,2326,5
+I S Telco,Upgrade,99,,0,0
+I S Telco Wireless Services,Standard Sale,100,Installed Base,6000,0
+LTE A,Standard Sale,100,Good Lead,0,0
+MPLS Africa,Upgrade,100,Installed Base,38735.8,2
+Mobility,Service Realignment,10,,-96000,172
+Mobility,Standard Sale,0,Status Quo No Change Require,125000,552
+Partner Products,Upgrade,100,Installed Base,107100,3
+SELECT BU,Standard Sale,100,Quote Approved,15160,1
+Security,Standard Sale,84,,78200,102
+Security,Upgrade,80,,5760,693
+Security,Upgrade,100,Experience,-573540,16
+Telco Admin Services,STC Value Up,99,Installed Base,0,67
+Telco Admin Services,STC Value Up,99,Matched Solution to Need,0,36
+Telco Admin Services,Special Project,20,,0,101
+Telco Admin Services,Standard Sale,99,,0,7
+VPN,Cession,95,Experience,0,0
+VPN,Churn,0,Status Quo No Change Require,-1100772,30
+VPN,Outdoor Transfer,100,Experience,0,1
+VPN,Standard Sale,99,Quote Approved,62586,50
+iTaas,Churn,0,Status Quo No Change Require,-20196,0
+iTaas,Standard Sale,60,,134300420.2,45597
+Access,Standard Sale,0,,8508716.62,6719
+Access,Upgrade,100,Good Lead,112965,6
+Communications,Service Migration,100,Good Lead,-162432,4
+Data Centre,Downgrade,80,,-72000,50
+Data Centre,Realignment,100,,0,0
+Data Centre,Upgrade,80,,1219080,356
+I S Broadband,Price Realignment,99,Experience,0,0
+I S Broadband,Price Realignment,100,Experience,0,26
+I S Telco,Standard Sale,100,Good Lead,152832.84,377
+I S Telco Wireless Services,Standard Sale,100,Experience,180320,1
+Partner Products,Upgrade,0,,174660,139
+Security,Standard Sale,60,,31283238.6,41883
+Security,Standard Sale,99,Quote Approved,720,1
+Service Management,Standard Sale,80,,1500000,272
+VPN,Outdoor Transfer,100,Installed Base,0,2
+VPN,Realignment,10,,-480989,522
+VPN,STC Value Up,100,Installed Base,42566.4,64
+VPN,Standard Sale,10,,46607474.4,7348
+VPN,Standard Sale,91,Installed Base,73764.62,13
+VPN,Standard Sale,100,,23611928.29,3895
+VPN,Upgrade,80,,0,883
